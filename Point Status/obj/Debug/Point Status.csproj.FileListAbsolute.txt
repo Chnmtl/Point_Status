@@ -1,0 +1,14 @@
+C:\Users\Cihan\source\repos\Point Status\Point Status\bin\Debug\Point Status.exe.config
+C:\Users\Cihan\source\repos\Point Status\Point Status\bin\Debug\Point Status.exe
+C:\Users\Cihan\source\repos\Point Status\Point Status\bin\Debug\Point Status.pdb
+C:\Users\Cihan\source\repos\Point Status\Point Status\obj\Debug\Point Status.csprojAssemblyReference.cache
+C:\Users\Cihan\source\repos\Point Status\Point Status\obj\Debug\Point Status.csproj.CoreCompileInputs.cache
+C:\Users\Cihan\source\repos\Point Status\Point Status\obj\Debug\Point Status.exe
+C:\Users\Cihan\source\repos\Point Status\Point Status\obj\Debug\Point Status.pdb
+D:\School\Advanced Programming\Point Status\Point Status\bin\Debug\Point Status.exe.config
+D:\School\Advanced Programming\Point Status\Point Status\bin\Debug\Point Status.exe
+D:\School\Advanced Programming\Point Status\Point Status\bin\Debug\Point Status.pdb
+D:\School\Advanced Programming\Point Status\Point Status\obj\Debug\Point Status.csprojAssemblyReference.cache
+D:\School\Advanced Programming\Point Status\Point Status\obj\Debug\Point Status.csproj.CoreCompileInputs.cache
+D:\School\Advanced Programming\Point Status\Point Status\obj\Debug\Point Status.exe
+D:\School\Advanced Programming\Point Status\Point Status\obj\Debug\Point Status.pdb
